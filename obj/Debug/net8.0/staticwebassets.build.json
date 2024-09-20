@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ticukRt6kPUrBvnc3GsMsW80rqq2TtWHLmJ65pVZV1c=",
+  "Hash": "0jTYZG65+x0YpJJOGqTYZEv0dl8p8zA/3wFtd6+BKtk=",
   "Source": "server",
   "BasePath": "_content/server",
   "Mode": "Default",
@@ -34,6 +34,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\lucie\\documents\\intro-htmlCss\\server\\wwwroot\\index.html",
+      "SourceId": "server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lucie\\documents\\intro-htmlCss\\server\\wwwroot\\",
+      "BasePath": "_content/server",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
       "Identity": "C:\\Users\\lucie\\documents\\intro-htmlCss\\server\\wwwroot\\styles.css",

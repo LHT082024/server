@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\app.js"
     },
     {
+      "Id": "C:\\Users\\lucie\\documents\\intro-htmlCss\\server\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
       "Id": "C:\\Users\\lucie\\documents\\intro-htmlCss\\server\\wwwroot\\styles.css",
       "PackagePath": "staticwebassets\\styles.css"
     },

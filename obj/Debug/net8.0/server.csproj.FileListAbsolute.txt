@@ -24,3 +24,4 @@ C:\Users\lucie\documents\intro-htmlCss\server\obj\Debug\net8.0\server.pdb
 C:\Users\lucie\documents\intro-htmlCss\server\obj\Debug\net8.0\server.genruntimeconfig.cache
 C:\Users\lucie\documents\intro-htmlCss\server\obj\Debug\net8.0\ref\server.dll
 C:\Users\lucie\documents\intro-htmlCss\server\bin\Debug\net8.0\server.staticwebassets.runtime.json
+C:\Users\lucie\documents\intro-htmlCss\server\obj\Debug\net8.0\server.sourcelink.json

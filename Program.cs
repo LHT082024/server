@@ -4,8 +4,8 @@ var app = builder.Build();
 
 
 //brukes til å hente de andre filene
-// app.UseDefaultFiles();
-// app.UseStaticFiles();
+app.UseDefaultFiles();
+app.UseStaticFiles();
 
 //bare for å ha noe på åpnings siden. 
 app.MapGet("/", () => "Hello World!");
